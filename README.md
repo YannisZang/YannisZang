@@ -24,13 +24,14 @@ Here are some ideas to get you started:
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
-![JAX](https://img.shields.io/badge/-JAX-007FFF?logo=jax&logoColor=white&style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/-LangChain-26A17B?logo=langchain&logoColor=white&style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF6C37?logo=huggingface&logoColor=white&style=for-the-badge)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![LLVM](https://img.shields.io/badge/-LLVM-185CFF?logo=llvm&logoColor=white&style=for-the-badge)
 
 <!-- 语言分布 
