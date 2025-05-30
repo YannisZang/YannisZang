@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Yannis
 
 <!--
 **YannisZang/YannisZang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 
 <!-- 语言分布 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanniszang&layout=compact&&langs_count=10&&&hide=HTML,CSS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanniszang&layout=compact&&langs_count=10)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=你的用户名&theme=github)
+
