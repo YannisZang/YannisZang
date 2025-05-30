@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/-Python-FFD43B?logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+
+<!-- 语言分布 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyanzang&layout=compact&theme=default)
