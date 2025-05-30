@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 <!-- 语言分布 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanniszang&layout=compact&&langs_count=10)
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=你的用户名&theme=github)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanniszang&theme=github)
 
