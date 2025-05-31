@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Yannis
 
+![](https://komarev.com/ghpvc/?username=yanniszang&color=green)
+
 <!--
 **YannisZang/YannisZang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
