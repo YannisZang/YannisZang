@@ -1,4 +1,8 @@
-## Hi there 👋, I'm Yannis
+## Hi there 👋, I'm Xiaoyan.
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning CUDA and Triton
+- 👯 I’m looking to collaborate on RAG and AI infra.
 
 
 <!--
@@ -7,10 +11,6 @@
 ![](https://komarev.com/ghpvc/?username=yanniszang&color=green)
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning CUDA and Triton
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
