@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning CUDA and Triton
-- 👯 I’m looking to collaborate on RAG and AI infra.
+- 👯 I’m looking to collaborate on RAG and AI Infrastructure.
 
 
 <!--
