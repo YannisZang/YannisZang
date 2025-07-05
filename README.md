@@ -39,8 +39,9 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![LLVM](https://img.shields.io/badge/-LLVM-185CFF?logo=llvm&logoColor=white&style=for-the-badge)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanniszang&layout=compact&&langs_count=10)
+
 <!-- 语言分布 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanniszang&layout=compact&&langs_count=10)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 -->
