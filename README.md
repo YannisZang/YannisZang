@@ -1,8 +1,9 @@
 ## Hi there 👋, I'm Xiaoyan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning CUDA and Triton
-- 👯 I’m looking to collaborate on RAG and AI Infrastructure.
+- 🔭 I’m currently working on a RAG application.
+- 🌱 I’m currently learning CUDA and Triton.
+- 👯 I’m looking to collaborate on AI Infrastructure and RAG.
+- 📫 How to reach me: xiaoyanzang24@hotmail.com.
 
 
 <!--
@@ -13,7 +14,7 @@
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
