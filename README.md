@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a RAG application.
 - 🌱 I’m currently learning CUDA and Triton.
-- 👯 I’m looking to collaborate on AI Infrastructure and RAG.
+- 👯 I’m looking to collaborate on AI Infrastructure.
 - 📫 How to reach me: xiaoyanzang24@hotmail.com.
 
 
