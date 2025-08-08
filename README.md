@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![LLVM](https://img.shields.io/badge/-LLVM-185CFF?logo=llvm&logoColor=white&style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/-LangChain-26A17B?logo=langchain&logoColor=white&style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-4E44CE?logo=langgraph&logoColor=whote&style=for-the-badge)
@@ -36,7 +37,6 @@ Here are some ideas to get you started:
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![LLVM](https://img.shields.io/badge/-LLVM-185CFF?logo=llvm&logoColor=white&style=for-the-badge)
 
 
 <!-- 语言分布 
