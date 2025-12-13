@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 ![LangGraph](https://img.shields.io/badge/-LangGraph-4E44CE?logo=langgraph&logoColor=whote&style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF6C37?logo=huggingface&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
