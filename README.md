@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Xiaoyan.
+## Hi there 👋, I'm Xiaoyan, sharing my learnings and journey in tech.
 
 <!--
 - 🔭 I’m currently working on a RAG application.
