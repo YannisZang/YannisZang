@@ -1,5 +1,6 @@
 ## Hi there 👋, I'm Xiaoyan.
 
+<!--
 - 🔭 I’m currently working on a RAG application.
 - 🌱 I’m currently learning CUDA and Triton.
 - 👯 I’m looking to collaborate on AI Infrastructure and RAG system optimization.
@@ -30,7 +31,6 @@ Here are some ideas to get you started:
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
-![LLVM](https://img.shields.io/badge/-LLVM-185CFF?logo=llvm&logoColor=white&style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/-LangChain-26A17B?logo=langchain&logoColor=white&style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-4E44CE?logo=langgraph&logoColor=whote&style=for-the-badge)
@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&logoColor=white&style=for-the-badge)
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge)
+![LLVM](https://img.shields.io/badge/-LLVM-185CFF?logo=llvm&logoColor=white&style=for-the-badge)
 
 
 
