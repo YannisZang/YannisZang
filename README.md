@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanniszang&layout=compact&&langs_count=10)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanniszang&layout=compact&&langs_count=10)
 <!-- 语言分布 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
